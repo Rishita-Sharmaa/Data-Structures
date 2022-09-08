@@ -1,2 +1,2 @@
 # Data-Structures
-Programs on data structures using C,
+Programs on data structures using C
